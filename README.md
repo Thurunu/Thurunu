@@ -30,7 +30,7 @@
 ## 🚀 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=thurunu&show_icons=true&hide_border=true&theme=dark" width="48%"/> 
+  <img src="https://github-readme-stats.vercel.app/api?username=thurunu&show_icons=true&hide_border=true&theme=dark" width="48%" height="100%"/> 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thurunu&layout=compact&hide_border=true&theme=dark" width="48%"/>
 </div>
 
