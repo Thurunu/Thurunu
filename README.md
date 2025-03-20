@@ -26,8 +26,7 @@
 
 ## 🚀 GitHub Stats
 
-![GitHub Contribution Grid Snake](https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
-![GitHub Contribution Grid Snake](https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg#gh-light-mode-only)
+![GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=thurunu&bg_color=000000&color=0091ff&line=0084ff&point=1100ff&area=true&hide_border=true)
 
 <details>
   <summary>📊 Expand for More Stats</summary>
