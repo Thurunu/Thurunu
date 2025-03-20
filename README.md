@@ -26,8 +26,7 @@
 
 ## 🚀 GitHub Stats
 
-![GitHub Contribution Grid Snake](https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
-![GitHub Contribution Grid Snake](https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg#gh-light-mode-only)
+
 
 <details>
   <summary>📊 Expand for More Stats</summary>
@@ -37,6 +36,10 @@
   **🐱 Most Used Languages** 
 
   ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=thurunu&layout=compact)
+
+  ** Visitor Counter **
+  ![Visitor Count](https://profile-counter.glitch.me/{thurunu}/count.svg)
+
 
 </details>
 
