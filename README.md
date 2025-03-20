@@ -29,16 +29,15 @@
 
 ## 🚀 GitHub Stats
 
-![GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=thurunu&bg_color=000000&color=0091ff&line=0084ff&point=1100ff&area=true&hide_border=true)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=thurunu&show_icons=true&hide_border=true&theme=dark" width="48%"/> 
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thurunu&layout=compact&hide_border=true&theme=dark" width="48%"/>
+</div>
 
 <details>
-  <summary>📊 Expand for More Stats</summary>
-
-  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=thurunu&show_icons=true&hide_border=true&theme=dark)
+  <summary>📊 Activity Graph</summary>
   
-  **Most Used Languages**  
-  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=thurunu&layout=compact)
-
+  ![GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=thurunu&bg_color=000000&color=0091ff&line=0084ff&point=1100ff&area=true&hide_border=true)
 </details>
 
 ---
