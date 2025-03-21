@@ -25,7 +25,7 @@
 | **IDEs**           | ![VSCode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white) ![IntelliJ IDEA](https://img.shields.io/badge/Intellij%20Idea-000?logo=intellij-idea&style=for-the-badge) |
 
 ## 🚀 GitHub Stats
-![GitHub Snake](https://raw.githubusercontent.com/Thurunu/<repo>/output/github-contribution-grid-snake.svg)
+![GitHub Snake](https://raw.githubusercontent.com/Thurunu/Thurunu/output/github-contribution-grid-snake.svg)
 
 <details>
   <summary>📊 Expand for More Stats</summary>
