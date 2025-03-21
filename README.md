@@ -25,12 +25,12 @@
 | **IDEs**           | ![VSCode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white) ![IntelliJ IDEA](https://img.shields.io/badge/Intellij%20Idea-000?logo=intellij-idea&style=for-the-badge) |
 
 ## 🚀 GitHub Stats
-
-![GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=thurunu&bg_color=000000&color=0091ff&line=0084ff&point=1100ff&area=true&hide_border=true)
+![GitHub Snake](https://raw.githubusercontent.com/Thurunu/<repo>/output/github-contribution-grid-snake.svg)
 
 <details>
   <summary>📊 Expand for More Stats</summary>
 
+  ![GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=thurunu&bg_color=000000&color=0091ff&line=0084ff&point=1100ff&area=true&hide_border=true)
   ![Thurunu's GitHub Stats](https://github-readme-stats.vercel.app/api?username=thurunu&show_icons=true&hide_border=true&hide=contribs,prs&theme=dark)
 
   **🐱 Most Used Languages** 
