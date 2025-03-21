@@ -7,6 +7,7 @@
 ## 😎 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)][linkedin]
+[![Medium](https://img.shields.io/badge/Medium-blue?logo=medium)][Medium]
 [![Instagram](https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white)][instagram]
 [![Facebook](https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white)][facebook]
 
@@ -25,7 +26,8 @@
 | **IDEs**           | ![VSCode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white) ![IntelliJ IDEA](https://img.shields.io/badge/Intellij%20Idea-000?logo=intellij-idea&style=for-the-badge) |
 
 ## 🚀 GitHub Stats
-![GitHub Snake](https://raw.githubusercontent.com/Thurunu/Thurunu/output/github-contribution-grid-snake.svg)
+![GitHub Snake](https://raw.githubusercontent.com/Thurunu/Thurunu/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)![GitHub Snake](https://raw.githubusercontent.com/Thurunu/Thurunu/output/github-contribution-grid-snake.svg#gh-light-mode-only)
+
 
 <details>
   <summary>📊 Expand for More Stats</summary>
@@ -43,3 +45,4 @@
 [linkedin]: https://www.linkedin.com/in/thurunumihiranga/
 [facebook]: https://www.facebook.com/thurunu.mihiranga.2115
 [github]: https://github.com/Thurunu
+[medium]: https://medium.com/@mthurunu
