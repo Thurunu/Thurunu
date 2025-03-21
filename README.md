@@ -2,7 +2,7 @@
 
 - 🌱 I’m currently working on **DevOps** and **Software Engineering**.
 - 👨‍💻 All of my projects are available at **[GitHub][github]**.
-- 📝 I regulary write articles on **[medium][medium]**
+- 📝 I regulary write articles on **[medium][medium]**.
 - 📫 How to reach me: **mthurunu@gmail.com**.
 
 ## 😎 Connect with Me
