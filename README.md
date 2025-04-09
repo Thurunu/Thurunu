@@ -1,7 +1,7 @@
 # Hi there, I'm Thurunu! 👋
 
 - 🌱 I’m passionate on **DevOps** and **Software Engineering**.
-- 👨‍💻 All of my projects are available at **[GitHub][github]**.
+- 👨‍💻 All of my projects are available **[Here][github]**.
 - 📝 I regulary write articles on **[medium][medium]**.
 - 📫 How to reach me: **mthurunu@gmail.com**.
 
