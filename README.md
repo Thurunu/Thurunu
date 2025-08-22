@@ -4,6 +4,7 @@
 - 👨‍💻 All of my projects are available **[Here][github]**.
 - 📝 I regulary write articles on **[medium][medium]**.
 - 📫 How to reach me: **mthurunu@gmail.com**.
+- 🌍 Visit my portfolio **[here][portfolio]**.
 
 ## 😎 Connect with Me
 
@@ -51,3 +52,4 @@
 [github]: https://github.com/Thurunu
 [medium]: https://medium.com/@mthurunu
 [whatsapp]: https://wa.me/+94769771656
+[portfolio]: https://thurunu.netlify.app/
