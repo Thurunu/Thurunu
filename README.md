@@ -1,4 +1,4 @@
-# Hi there, I'm Thurunu! 👋
+# Hi there, I'm Thurunu Mihiranga! 👋
 
 - 🌱 I’m passionate on **DevOps** and **Software Engineering**.
 - 👨‍💻 All of my projects are available **[here][github]**.
